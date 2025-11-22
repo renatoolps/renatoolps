@@ -8,9 +8,11 @@ Sou Analista de Infraestrutura com mais de 6 anos de experiência em ambientes c
 
 ### ☁️ Cloud & DevOps
 <div style="display: flex; gap: 20px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" title="AWS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="50" title="Microsoft Azure"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="50" title="Google Cloud Platform"/>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="50" title="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="50" title="Azure"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="50" title="Google Cloud"/>
+</p>
 </div>
 
 ---
