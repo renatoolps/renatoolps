@@ -17,7 +17,7 @@ Sou Analista de Infraestrutura com mais de 6 anos de experiência em ambientes c
 
 ## 📈 Estatísticas
 
-[![Renato’s GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&count_private=true)](https://github.com/SEU_USUARIO)
+[![Renato’s GitHub stats](https://github-readme-stats.vercel.app/api?username=renatoolps&show_icons=true&count_private=true)](https://github.com/renatoolps)
 
 ---
 
